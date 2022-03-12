@@ -1,7 +1,7 @@
 Ichim Dan Gabriel 331CC
 
 ***Am presupus ca toate variabilele sunt declarate printr-o singura 
-litera, asa ca verificarile de variabila le fac doar prin {LETTER}
+litera, asa ca verificarile de variabila se fac doar prin {LETTER}
 
 Variabile suplimentare folosite:
 	Variables - Contorizez numele si tipul fiecarei variabile declarate
